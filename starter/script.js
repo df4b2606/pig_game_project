@@ -83,4 +83,6 @@ btnNew.addEventListener('click', function () {
   player0El.classList.add('player--active');
   player1El.classList.remove('player--active');
 });
-console.log('ddd');
+const newfeature = function () {
+  console.log('ffwechangr!!!');
+};
